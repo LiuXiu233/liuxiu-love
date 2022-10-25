@@ -1,3 +1,3 @@
 # My Love Story
-Site: http://love.cuiqingcai.com/
+Site: https://love.liuxiu.io/
 # liuxiu-love
